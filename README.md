@@ -2,6 +2,9 @@
 
 A simple handler for python's `logging` module. It posts logging messages in a slack channel.
 
+![slackhandler screenshot](/examples/log.png)
+
+
 ## installation
 
 ```
