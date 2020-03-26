@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="slackhandler-bonartm", 
+    name="slackhandler", 
     version="0.0.1",
     author="Malte Bonart",
     author_email="malte@spiced-academy.com",
